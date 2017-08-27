@@ -1,12 +1,5 @@
 package com.example.briti.snoredetector;
 
-/**
- *  This is the sampler for the visualizer
- *  This collects the data the will be visualized
- *  @author Pontus Holmberg (EndLessMind)
- *  Email: the_mr_hb@hotmail.com
- **/
-
 import android.media.AudioRecord;
 import android.media.MediaPlayer;
 import android.util.Log;
