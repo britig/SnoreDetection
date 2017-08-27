@@ -1,7 +1,7 @@
 # SnoreDetection
 Android application to detect snoring
 
-This application processes sound using androids audio recorder api. A cyclic high and low sound is detected as snoring.
+This application processes sound using androids audio recorder api. A cyclic high and low sound is detected as snoring. The main class is SnoreDetector.java it calls Sampler class to sample data, Drawer class to plot the data and SnoringApi for snore detection.
 
 The below screenshot represents the initial screen of the application
 
